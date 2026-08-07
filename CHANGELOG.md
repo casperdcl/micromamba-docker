@@ -3,6 +3,10 @@
 This change log covers changes to the docker image and does not include
 [changes to the micromamba program](https://github.com/mamba-org/mamba/blob/main/CHANGELOG.md).
 
+## 7 August 2026
+
+- Updated to micromamba version 2.9.0
+
 ## 9 June 2026
 
 - Updated to micromamba version 2.8.1
